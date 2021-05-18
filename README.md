@@ -7,5 +7,15 @@ Cluster student answers in order to:
 3. Assist with consistent grading
 4. Select a diverse set of ideal student answers
 
+## Getting Started 
+To get started, follow the instructions to get the core program running locally 
+```
+$ git clone https://github.com/18vijayb/ERDRecognition.git
+$ cd ERDRecognition
+$ virtualenv venv
+$ source venv/bin/activate
+$ pip install -r requirements.txt
+```
+
 ## Technologies Used
 TensorFlow
