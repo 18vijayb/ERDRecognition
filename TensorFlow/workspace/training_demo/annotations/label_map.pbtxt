@@ -1,0 +1,14 @@
+item {
+    id: 1
+    name: 'Entity'
+}
+
+item {
+    id: 2
+    name: 'Relationship'
+}
+
+item {
+    id: 3
+    name: 'Attribute'
+}
