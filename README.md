@@ -19,3 +19,7 @@ $ pip install -r requirements.txt
 
 ## Technologies Used
 TensorFlow
+
+## Authentication Setup
+https://googleapis.dev/python/google-api-core/latest/auth.html
+
