@@ -9,12 +9,16 @@ def splitImage(imgName):
         data = jsonFile.read() 
         data = data.replace("\'", "\"")
         data = json.loads(data) 
+    with open('response/' + imgName + '.json', 'w') as jsonFile:
+        json.dump(data, jsonFile)
 
 #    jsonFile = open('response/' + imgName + '.json').read()
     
 
     boxes = data['bboxes']
     objects = data['displayNames']
+    if not os.path.exists('split-images/'):
+        os.mkdir('split-images')
     if not os.path.exists('split-images/' + imgName):
         os.mkdir('split-images/' + imgName)
 
@@ -22,18 +26,16 @@ def splitImage(imgName):
     im = Image.open('images/' + imgName + '.jpg')
     width, height = im.size
 
-    counter = 1
+    counter = 0
     for box, displayName in zip(boxes, objects):
         counter += 1
-        # TODO: resolve coordinate issue 
-        yCoordinates = [box[0], box[2]]
-        xCoordinates = [box[1], box[3]]
+        yCoordinates = [box[2], box[3]]
+        xCoordinates = [box[0], box[1]]
 
         left = min(xCoordinates) * width
         top = min(yCoordinates) * height
         right = max(xCoordinates) * width 
         bottom = max(yCoordinates) * height
-
         im1 = im.crop((left, top, right, bottom))
         im1.save('split-images/' + imgName + '/' + displayName + str(counter) + '.jpg')
 
