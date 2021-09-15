@@ -1,0 +1,4 @@
+—
+date
+amount_items_ordered
+tip

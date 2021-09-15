@@ -1,0 +1,5 @@
+FK1| customer_id int NOT NULL
+order_date date NOT NULL
+Food_id
+Tip
+Total_number_items

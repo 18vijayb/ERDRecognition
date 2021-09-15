@@ -1,0 +1,3 @@
+order_date
+tip_ amount
+total_amount

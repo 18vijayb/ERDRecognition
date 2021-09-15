@@ -1,0 +1,4 @@
+customers
+PK card_no INT NOT NULL
+card_type VARCHAR(30) NOT NULL
+customer_name VARCHAR(256) NOT NULI

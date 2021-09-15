@@ -1,0 +1,6 @@
+o
+Food Item
+Name
+Price
+Calories
+Ww —

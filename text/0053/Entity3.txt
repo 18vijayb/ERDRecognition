@@ -1,0 +1,4 @@
+Customer
+credit_card_number
+credit_card_type
+name

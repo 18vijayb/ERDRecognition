@@ -1,0 +1,4 @@
+Order
+order_date
+total_of_ordered_food_items
+tip_amoint

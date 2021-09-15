@@ -1,0 +1,2 @@
+credit_card_num
+credit card type

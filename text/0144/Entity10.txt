@@ -1,0 +1,3 @@
+Order Date
+Total Charge
+Tip Amount

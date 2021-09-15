@@ -1,0 +1,4 @@
+PK
+price
+number of calories
+usual side

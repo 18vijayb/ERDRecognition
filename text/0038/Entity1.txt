@@ -1,0 +1,3 @@
+Customer
+credit card number
+card type

@@ -1,0 +1,6 @@
+PK customer_id int NOT NULL
+customer_First_name NOT NULL
+Customer_Last_Name
+Card_number
+Card_Type
+Payment

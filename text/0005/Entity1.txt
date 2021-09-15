@@ -1,0 +1,6 @@
+OO
+Customer
+PK
+credit_card_num
+card_type
+customer_name

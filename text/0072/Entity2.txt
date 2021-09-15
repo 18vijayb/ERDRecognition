@@ -1,0 +1,5 @@
+Customer
+PK
+card number
+card type
+name

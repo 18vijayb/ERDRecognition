@@ -1,0 +1,6 @@
+Customer Order
+PK
+id
+order date
+amount of food items ordered
+Tip amount

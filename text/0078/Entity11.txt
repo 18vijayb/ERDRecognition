@@ -1,0 +1,7 @@
+total_price
+date
+tip
+credcardnum
+cardtype
+waiterd_ssn
+waiterp_ssn

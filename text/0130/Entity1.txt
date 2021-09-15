@@ -1,0 +1,3 @@
+Customer
+Px | credit_card_number
+| | customer_name

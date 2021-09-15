@@ -1,0 +1,5 @@
+LN
+order
+date
+food amount
+tip amount

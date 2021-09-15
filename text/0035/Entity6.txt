@@ -1,0 +1,3 @@
+usualSideForOtherFooditem
+price
+numCalories

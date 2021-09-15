@@ -1,0 +1,4 @@
+Food Items
+PK | food_name
+price
+calories

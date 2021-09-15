@@ -1,0 +1,4 @@
+Customer
+card_number int NOT NULL
+card_type string NOT NULL
+1 | name char(50) NOT NULL P

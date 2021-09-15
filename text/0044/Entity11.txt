@@ -1,0 +1,3 @@
+date
+total_ amount
+tip_ amount

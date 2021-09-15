@@ -1,0 +1,2 @@
+total food items
+tip amount

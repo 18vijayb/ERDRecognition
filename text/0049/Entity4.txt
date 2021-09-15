@@ -1,0 +1,5 @@
+Orders
+order_id
+order date
+total price
+tip

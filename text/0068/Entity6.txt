@@ -1,0 +1,5 @@
+order
+PK
+date
+total amount of items
+tip amount

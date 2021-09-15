@@ -1,0 +1,2 @@
+credit card number
+credit card type

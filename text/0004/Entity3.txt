@@ -1,0 +1,3 @@
+| Customer |
+PK,FK1
+PK,FK2

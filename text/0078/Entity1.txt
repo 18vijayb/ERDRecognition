@@ -1,0 +1,3 @@
+Fooditem
+FK1 | side_for
+|FK2| chef_ssn

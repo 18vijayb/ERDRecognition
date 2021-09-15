@@ -1,0 +1,4 @@
+Customers
+card | number int int
+card type varchar
+customer_name

@@ -1,0 +1,5 @@
+order
+unique id
+order date
+number of food items
+tip

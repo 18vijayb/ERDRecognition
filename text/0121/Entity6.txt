@@ -1,0 +1,5 @@
+customer order
+focict |
+order date
+total amount
+tip amount

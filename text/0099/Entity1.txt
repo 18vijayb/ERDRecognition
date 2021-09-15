@@ -1,0 +1,4 @@
+Customer
+CardNum
+CardType
+Name

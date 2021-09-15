@@ -1,0 +1,4 @@
+PK
+ssn int
+name
+age

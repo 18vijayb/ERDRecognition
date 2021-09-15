@@ -1,0 +1,5 @@
+Customer Order
+PK | Order ID
+Order Date
+Number of food items
+Tip

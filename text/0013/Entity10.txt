@@ -1,0 +1,4 @@
+food_items
+PK | name VARCHAR(30) NOT NULL
+price DECIMAL(2, 2) NOT NULL
+calories INT NOT NULL

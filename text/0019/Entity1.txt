@@ -1,0 +1,4 @@
+| PK
+Date
+Total Amount of Food Items
+Tip Amount

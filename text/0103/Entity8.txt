@@ -1,0 +1,4 @@
+Customer
+PK,FK1 | card number
+PK,FK2 | card type f
+Name

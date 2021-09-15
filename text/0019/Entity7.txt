@@ -1,0 +1,6 @@
+Chef
+PK
+SSN
+Name
+Age
+Experience

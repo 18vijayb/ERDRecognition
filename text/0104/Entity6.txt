@@ -1,0 +1,3 @@
+Customers
+PK | credit card number/type
+name

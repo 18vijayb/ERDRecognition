@@ -1,0 +1,5 @@
+Customer
+credit_card_number
+ard_type
+PK
+name

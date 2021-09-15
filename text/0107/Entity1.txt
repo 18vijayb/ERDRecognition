@@ -1,0 +1,6 @@
+PK
+Waiter
+SSN
+Name
+Age
+Row 3

@@ -1,0 +1,5 @@
+&
+customer order
+order date
+food amount
+tip amount

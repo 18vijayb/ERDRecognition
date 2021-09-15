@@ -1,0 +1,6 @@
+chet
+PK
+SSN
+name
+age
+years of experience

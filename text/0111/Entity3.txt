@@ -1,0 +1,6 @@
+PK,FK1
+PK,FK2
+Customer
+Credit card number
+Card type
+Name

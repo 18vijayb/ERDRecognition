@@ -1,0 +1,5 @@
+Customer Order
+Order Date
+Total Amount of Ordered
+Food Items
+Tip Amount

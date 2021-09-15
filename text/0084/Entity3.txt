@@ -1,0 +1,4 @@
+Customer
+PK Credit Card No.
+PK Card Type
+Name

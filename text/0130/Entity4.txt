@@ -1,0 +1,3 @@
+price
+number_of_calories
+<7

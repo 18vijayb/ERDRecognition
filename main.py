@@ -6,7 +6,7 @@
 #
 '''
 
-import base64, argparse, json, os
+import base64, argparse, pytesseract, json, os
 import numpy as np
 
 from google.cloud import aiplatform
@@ -163,6 +163,8 @@ def main():
 
     jsonArray = np.array(array)
     print(jsonArray)
+
+    # ocr 
 
 if __name__ == "__main__":
     # TODO: Implement config handling (i.e., read from a file certain values such as model endpoint)

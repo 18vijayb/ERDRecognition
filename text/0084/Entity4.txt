@@ -1,0 +1,5 @@
+= Customer Order
+PK | Order Id
+Order Date
+Total Amount
+Tip

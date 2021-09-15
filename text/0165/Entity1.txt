@@ -1,0 +1,6 @@
+Orders
+PK
+id
+date
+tip amount
+total

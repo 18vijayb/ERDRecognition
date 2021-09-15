@@ -1,0 +1,4 @@
+Feedback id
+order id
+card number
+|| feedback

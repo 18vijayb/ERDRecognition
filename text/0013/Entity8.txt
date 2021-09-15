@@ -1,0 +1,3 @@
+ssn int NOT NULL
+age INT NOT NULL
+i name VARCHAR(256) NOT NULL

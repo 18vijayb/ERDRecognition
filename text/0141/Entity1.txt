@@ -1,0 +1,4 @@
+Food Item
+price
+number_of_calories
+is_side

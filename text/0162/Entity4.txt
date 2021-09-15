@@ -1,0 +1,6 @@
+bs
+= Order
+ica
+order_date
+total_food_cost
+tip

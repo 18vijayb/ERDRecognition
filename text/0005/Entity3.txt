@@ -1,0 +1,6 @@
+Food size
+PK
+food_name
+size
+price
+num_calories

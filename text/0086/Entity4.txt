@@ -1,0 +1,3 @@
+Waiter
+PK | SSN
+Name

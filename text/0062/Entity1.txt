@@ -1,0 +1,4 @@
+Customer Order
+order date
+total amount of items
+tip amount

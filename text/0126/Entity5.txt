@@ -1,0 +1,5 @@
+Customer Orders
+order_id int NOT NULL
+order_date date NOT NULL
+total_charge float NOT NULL
+tip float NOT NULL

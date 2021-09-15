@@ -1,0 +1,5 @@
+Waiter
+PK
+SSN
+Name
+Age

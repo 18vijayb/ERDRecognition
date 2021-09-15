@@ -1,0 +1,3 @@
+Date
+Order total
+Tip

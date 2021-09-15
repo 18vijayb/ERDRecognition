@@ -1,0 +1,5 @@
+Order
+PK | Order ID
+Date
+Number of Items
+Tip Amount

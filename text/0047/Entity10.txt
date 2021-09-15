@@ -1,0 +1,3 @@
+order_date
+food_amount
+tip_amount

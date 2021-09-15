@@ -1,0 +1,5 @@
+order
+id
+order date
+total amount of ordered food items
+tips

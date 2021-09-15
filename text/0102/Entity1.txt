@@ -1,0 +1,4 @@
+Customers
+card num
+PI | card_type
+customer_name

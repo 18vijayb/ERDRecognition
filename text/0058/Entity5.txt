@@ -1,0 +1,6 @@
+Chef
+PK | SSN
+name
+age
+# of years of experience
+u

@@ -1,0 +1,4 @@
+Waiter
+waiter SSN
+waiter_name
+waiter_age

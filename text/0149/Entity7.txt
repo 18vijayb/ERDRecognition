@@ -1,0 +1,3 @@
+Date
+Amount of Food Items
+Tip Amount

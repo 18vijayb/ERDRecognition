@@ -1,0 +1,3 @@
+food_name string NOT NUL
+price float NOT NULL
+num_calories int NOT NULL

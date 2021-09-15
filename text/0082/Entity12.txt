@@ -1,0 +1,4 @@
+waiter
+PK | SSN
+name
+age

@@ -1,0 +1,5 @@
+Customer Order
+[os
+date
+qnty_items_ordered
+tip_amount

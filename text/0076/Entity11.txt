@@ -1,0 +1,9 @@
+Employee
+Emp_id int NOT NULL
+Emp_Fname
+Emp_Lname
+Age
+Address
+Emp_position
+SSN
+Chef_experience

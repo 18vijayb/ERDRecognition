@@ -1,0 +1,3 @@
+a ssn int NOT NULL
+name char(50) NOT NULL
+age int NOT NULL

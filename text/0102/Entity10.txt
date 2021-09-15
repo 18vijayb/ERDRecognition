@@ -1,0 +1,4 @@
+customer_id
+order_date
+Total_Items
+Tip

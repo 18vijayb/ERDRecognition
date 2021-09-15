@@ -1,0 +1,5 @@
+FK1 | order_id int NOT NULL
+Food_Name
+Side_Item
+Price
+Calories

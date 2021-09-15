@@ -1,0 +1,2 @@
+Take payment
+from customer

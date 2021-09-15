@@ -1,0 +1,6 @@
+CustomerOrder
+PK
+ID
+Date
+Total
+Tip

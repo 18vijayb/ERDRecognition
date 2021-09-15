@@ -1,0 +1,5 @@
+chefs
+ssn int NOT NULL
+name VARCHAR(256) NOT NULL
+age INT NOT NULL
+experience INT NOT NULL Pp

@@ -1,0 +1,4 @@
+Customers
+PK | credit_card_number
+PK | credit card_ type
+name
